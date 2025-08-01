@@ -1,0 +1,22 @@
+body{
+background-color: rgb(40, 204, 216);
+color: rgba(216, 16, 16, 0.685);
+margin: 0px;
+font-family: "Chakra Petch", sans-serif;
+}
+header{
+border-bottom: dashed 2px rgb(250, 7, 7);
+padding: 20px;
+font-size: 40px;
+color: rgb(241, 237, 6);
+}
+section{
+background: rgb(0, 255, 76);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+.chamada-texto{
+margin-right: 5%;
+}
